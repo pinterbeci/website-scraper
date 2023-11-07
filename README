@@ -1,0 +1,9 @@
+Require libraries:
+
+pip install requests
+
+pip install bs4
+
+pip install selenium
+
+https://brightdata.com/blog/how-tos/web-scraping-with-python
